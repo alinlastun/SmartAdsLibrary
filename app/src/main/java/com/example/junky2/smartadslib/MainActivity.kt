@@ -9,30 +9,29 @@ import com.example.adslib.smartad.SmartAdInterstitial
 import com.example.adslib.smartad.SmartAdInterstitial.OnSmartAdInterstitialListener
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity() ,OnSmartAdInterstitialListener {
+class MainActivity : AppCompatActivity()  {
 
     lateinit var smartAdInterstitial:SmartAdInterstitial
     lateinit var managerInterstitial: ManagerInterstitial
-    var flow = arrayListOf("facebook","addmob")
+    var flow = arrayListOf("facebook","admob")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         nButton.setOnClickListener {
             managerInterstitial = ManagerInterstitial()
-            managerInterstitial.initAds(this,flow,"ca-app-pub-3940256099942544/1033173712","335407623685857_335407680352518",false,this)
+           // managerInterstitial.initAds(this,SmartAd.AD_TYPE_FACEBOOK,"ca-app-pub-3940256099942544/1033173712","335407623685857_335407680352518",false, SmartAdInterstitial.OnSmartAdInterstitialListener)
             SmartAd.addTestDevice(SmartAd.AD_TYPE_GOOGLE, "6F369650F8F0218706E21DAA8DC6361A")
             SmartAd.addTestDevice(SmartAd.AD_TYPE_FACEBOOK, "6F369650F8F0218706E21DAA8DC6361A")
 
-            //smartAdInterstitial =  SmartAdInterstitial.showAdWidthCallback(this,SmartAd.AD_TYPE_GOOGLE,"ca-app-pub-3940256099942544/1033173712","335407623685857_335407680352518",false,this)
+            //smartAdInterstitial =  SmartAdInterstitial.showAdWidthCallback(this,SmartAd.AD_TYPE_FACEBOOK,"ca-app-pub-3940256099942544/1033173712","335407623685857_335407680352518",false,this)
 
         }
         nButton2.setOnClickListener {
-            managerInterstitial.showLoading()
             /* smartAdInterstitial.showLoadedAd()*/ }
     }
 
-    override fun onSmartAdInterstitialDone(adType: Int) {
+  /*  override fun onSmartAdInterstitialDone(adType: Int) {
         Log.d("SmartAdInterstitial", "onSmartAdInterstitialDone")
     }
 
@@ -42,5 +41,5 @@ class MainActivity : AppCompatActivity() ,OnSmartAdInterstitialListener {
 
     override fun onSmartAdInterstitialClose(adType: Int) {
         Log.d("SmartAdInterstitial", "onSmartAdInterstitialClose")
-    }
+    }*/
 }

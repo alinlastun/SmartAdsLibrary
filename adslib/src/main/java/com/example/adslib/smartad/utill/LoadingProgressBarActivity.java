@@ -10,7 +10,6 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import com.example.adslib.R;
-import com.example.adslib.smartad.ManagerInterstitial;
 
 import static com.example.adslib.smartad.utill.StartProgressBar.draw;
 
