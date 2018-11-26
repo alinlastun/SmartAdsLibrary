@@ -1,0 +1,215 @@
+﻿<resources>
+
+	<string name="advertisement_loading">Advertensie laai</string>
+    <string name="policy_title"> Privaatheidsbeleid </string>
+        
+    <string name="policy_text"> Om ons te help om meer gepersonaliseerde inhoud te bring, kan hierdie program dalk jou toestel se Advertensie ID versamel en stoor </string>
+        
+    <string name="ourbest"> Ons beste app </string>
+        
+    <string name="share"> Deel </string>
+        
+    <string name="rate"> Rate </string>
+        
+    <string name="share_text"> Kyk na hierdie wonderlike sms-tema wat ek gevind het </string>
+        
+    <string name="loading"> Kry jou tema gereed ... </string>
+        
+    <string name="text_more_themes"> Meer temas </string>
+        
+    <string name="theme_loaded"> Tema is gelaai </string>
+        
+    <string name="text_top1"> Live Wallpaper! </string>
+        
+    <string name="text_bottom1"> Probeer hierdie wonderlike live plakpapier! </string>
+        
+    <string name="text_top2"> Meer gratis temas </string>
+        
+    <string name="text_bottom2"> Kyk watter een jy wil ^ _ ^ </string>
+
+        <!-- Strings Laai -->
+        
+    <string name="ad_will_load"> \'n advertensie sal laai </string>
+        
+    <string name="applying_theme"> Pas jou tema toe ... </string>
+
+    <string name="loading_wallpaper">Laai wallpapers ...</string>
+        
+    <string name="loading_live_wallpaper"> Lewende plakpapier laai ... </string>
+
+    <string name="notification_title"> Beoordeel asseblief die ikoonpakket! </string>
+        
+    <string name="notification_subtitle"> Ons waardeer u terugvoering waardeur ons ons vertel wat u dink oor Icon Pack </string>
+
+        
+    <string name="noInternetToast"> Geen internet </string>
+        
+    <string name="noInternetTitle"> Oeps! </string>
+        
+    <string name="noIntenertMessage"> Geen internetverbinding gevind! </string>
+        
+    <string name="noInternetReload"> Herlaai </string>
+
+        
+    <string name="apply_theme"> Pas tema toe </string>
+        
+    <string name="best_theme"> Ons beste program </string>
+        
+    <string name="rate_app"> Gradeer app </string>
+        
+    <string name="get_more"> Kry meer temas </string>
+        
+    <string name="wallpapers"> Wallpapers </string>
+
+        
+    <string name="wait"> Icon Pack Plus </string>
+        
+    <string name="wait2"> Laai jou tema </string>
+
+        
+    <string name="wallpaper_question"> Is jy seker jy wil hierdie agtergrond stel? </string>
+        
+    <string name="wallpaper_no"> nee </string>
+        
+    <string name="wallpaper_yes"> JA </string>
+        
+    <string name="wallpaper_set"> Wallpaper is ingestel </string>
+
+        
+    <string name="download_it_from_google_play"> Hierdie tema vereis dat die bogenoemde sleutelbord geïnstalleer word. Laai dit asseblief af van Google Play Winkel. </string>
+        
+    <string name="download_it_from_google_play_sms"> Hierdie tema vereis dat SMS Plus geïnstalleer moet word om te kan werk. Laai dit asseblief van Google Play af. </string>
+
+        
+    <string name="download_cancel"><u> Nee dankie! </u></string>
+        
+    <string name="download_download"> Download Icon Pack Plus </string>
+        
+    <string name="download_title"> Nog een stap ... </string>
+        
+    <string name="download_text"> Om hierdie ikoonpakket en agtergrond te gebruik, installeer asseblief Icon Pack Plus </string>
+
+        
+    <string name="natificationRateTitle"> Beoordeel my asseblief! </string>
+        
+    <string name="natificationRateMessage"> Ek sal baie waardeer as jy \'n bietjie tyd spandeer om my te evalueer </string>
+
+        
+    <string name="something_wrong"> Iets het fout gegaan, probeer asseblief weer (Kode:% 1 $ s) </string>
+
+        
+    <string name="rate_title"> U mening is belangrik vir ons! </string>
+        
+    <string name="rate_button"> Beoordeel ons </string>
+
+        
+    <string name="theme_id"> Test1 </string>
+        
+    <string name="keyboard_theme_name"> Test2 </string>
+
+
+        
+    <string name="dont_title"> Moenie verlaat nie! </string>
+        
+    <string name="dont_text"> Jy sal nie hierdie ikoon pak en plakpapier kan gebruik nie! </string>
+        
+    <string name="dont_1"> Pragtige <b> wallpapers </b> </string>
+        
+    <string name="dont_2"> Pragtige <b> ikone </b> </string>
+        
+    <string name="dont_3"> Upgrade na <b> VIP </b> </string>
+        
+    <string name="dont_4"> Versoek nuwe <b> ikone </b> </string>
+        
+    <string name="dont_5"> Nuwe <b> temas </b> elke dag </string>
+        
+    <string name="dont_6"> <b> 40 + </b> persoonlike ikone </string>
+        
+    <string name="dont_download"> Download Icon Pack Plus </string>
+
+    <string name = "cancel"> Kanselleer </string>
+         <string name = "aktiveer"> aktiveer </string>
+         <string name = "download"> Download </string>
+         <string name = "activate_app_keyboard_description"> Aktiveer asseblief Sleutelbord Plus om hierdie tema te gebruik </string>
+         <string name = "tv_load_themes"> Laai jou tema! </string>
+         <string name = "tv_wait"> Wag asseblief ... </string>
+         <string name = "tv_app_name"> Sleutelbord Plus </string>
+         <string name = "dontleave"> Moenie verlaat nie! </string>
+         <string name = "dontleave_desc"> Jou tema is nie geaktiveer nie en jy sal nie kry nie: </string>
+
+    <!-- Strings Sms Plus -->
+        
+    <string name="awesome_themes"> Awesome <b> temas </b> </string>
+        
+    <string name="animated_emoji_packs"> Animated <b> emoji </b> pakke </string>
+        
+    <string name="beautiful_stickers"> Pragtige <b> plakkers </b> </string>
+        
+    <string name="private_box"> <b> Privaat </b> vak </string>
+        
+    <string name="sms_blocker_blacklisting"> Sms <b> blokker </b> / blacklisting </string>
+        
+    <string name="gif_integration"> <b> GIF </b> integrasie </string>
+        
+    <string name="download_sms_plus"> Download SMS Plus </string>
+        
+    <string name="tv_app_name_sms"> SMS Plus </string>
+        
+    <string name="tv_app_name_paris"> Parys SMS </string>
+        
+    <string name="tv_app_description"> Mooi boodskap </string>
+        
+    <string name="theme_name"> </string>
+
+    <!-- LWP -->
+        
+    <string name="object_category"> Object Settings </string>
+        
+    <string name="background_change_shake"> Accelerometer </string>
+        
+    <string name="object_desc"> Kies Object to Place </string>
+        
+    <string name="object_selection_category"> Object Selection </string>
+        
+    <string name="object_selection_type"> Objects </string>
+        
+    <string name="rotation_direction_desc"> Kies agtergrond </string>
+        
+    <string name="set_direction"> Stel Falling Direction </string>
+        
+    <string name="settings"> Verander instellings </string>
+
+    <!-- Lwp Strings -->
+        
+    <string name="falling_items"> Falling Items </string>
+        
+    <string name="select_item_type"> Kies item type </string>
+        
+    <string name="falling_one_object"> Een voorwerp </string>
+        
+    <string name="falling_two_objects"> twee voorwerpe </string>
+        
+    <string name="direction"> rigting </string>
+        
+    <string name="direction_description"> Stel val rigting vir jou items </string>
+        
+    <string name="top_to_buttom"> Top na Buttom </string>
+        
+    <string name="buttom_to_top"> Buttom to Top </string>
+        
+    <string name="object_size"> Object Grootte </string>
+        
+    <string name="medium"> Medium </string>
+        
+    <string name="small"> Small </string>
+        
+    <string name="large"> Large </string>
+        
+    <string name="speed"> Spoed </string>
+        
+    <string name="speed_desctiption"> Kies hoe vinnig jy die items wil skuif </string>
+        
+    <string name="on"> Aan </string>
+        
+    <string name="off"> Off </string>
+</resources>

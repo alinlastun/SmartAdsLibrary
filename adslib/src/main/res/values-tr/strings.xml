@@ -1,0 +1,214 @@
+<resources>
+	<string name="advertisement_loading">Reklam yükleme</string>
+	
+    <string name="policy_title"> Gizlilik Politikası </string>
+        
+    <string name="policy_text"> Size daha kişiselleştirilmiş içerik sunmamıza yardımcı olmak için bu uygulama, cihazınızın Reklam kimliğini toplayıp saklayabilir </string>
+        
+    <string name="ourbest"> En iyi uygulamamız </string>
+        
+    <string name="share"> Paylaş </string>
+        
+    <string name="rate"> Rate </string>
+        
+    <string name="share_text"> Bulduğum bu harika sms temasına bir göz atın </string>
+        
+    <string name="loading"> Temanızı hazırlarken ... </string>
+        
+    <string name="text_more_themes"> Diğer temalar </string>
+        
+    <string name="theme_loaded"> Tema yüklendi </string>
+        
+    <string name="text_top1"> Canlı Duvar Kağıdı! </string>
+        
+    <string name="text_bottom1"> Bu muhteşem canlı duvar kağıdı deneyin! </string>
+        
+    <string name="text_top2"> Daha fazla ücretsiz tema </string>
+        
+    <string name="text_bottom2"> Hangisini sevdiğinizi görün ^ _ ^ </string>
+
+        <!-- Strings Loading -->
+        
+    <string name="ad_will_load"> Bir reklam yüklenecek </string>
+        
+    <string name="applying_theme"> Temanızı uygulama ... </string>
+    <string name="loading_wallpaper">Duvar kağıtları yükleniyor ...</string>
+        
+    <string name="loading_live_wallpaper"> Canlı duvar kağıdı yükleniyor ... </string>
+
+    <string name="notification_title"> Lütfen Simge Paketini derecelendirin! </string>
+        
+    <string name="notification_subtitle"> Geri bildiriminize değer veriyoruz, bu yüzden Icon Pack hakkında ne düşündüğünüzü bize bildirin. </string>
+
+        
+    <string name="noInternetToast"> İnternet Yok </string>
+        
+    <string name="noInternetTitle"> Ooops! </string>
+        
+    <string name="noIntenertMessage"> İnternet bağlantısı bulunamadı! </string>
+        
+    <string name="noInternetReload"> Yeniden Yükle </string>
+
+        
+    <string name="apply_theme"> Temayı Uygula </string>
+        
+    <string name="best_theme"> En İyi Uygulamamız </string>
+        
+    <string name="rate_app"> Rate App </string>
+        
+    <string name="get_more"> Daha Fazla Tema Alın </string>
+        
+    <string name="wallpapers"> Duvar Kağıtları </string>
+
+        
+    <string name="wait"> Icon Pack Plus </string>
+        
+    <string name="wait2"> Kendi temanızı yükleme </string>
+
+        
+    <string name="wallpaper_question"> Bu duvar kağıdını ayarlamak istediğinizden emin misiniz? </string>
+        
+    <string name="wallpaper_no"> hayır </string>
+        
+    <string name="wallpaper_yes"> YES </string>
+        
+    <string name="wallpaper_set"> Duvar kağıdı ayarlandı </string>
+
+        
+    <string name="download_it_from_google_play"> Bu tema, yukarıdaki klavyenin yüklenmesini gerektirir. Lütfen Google Play Store\'dan indirin. </string>
+        
+    <string name="download_it_from_google_play_sms"> Bu tema, çalışmak için yüklenecek SMS Plus gerektirir. Lütfen Google Play\'den indirin. </string>
+
+        
+    <string name="download_cancel"> <u> Hayır teşekkürler! </u> </string>
+        
+    <string name="download_download"> Icon Pack Plus\'ı indir </string>
+        
+    <string name="download_title"> Bir adım daha ... </string>
+        
+    <string name="download_text"> Bu Icon paketini ve duvar kağıdını kullanmak için lütfen Icon Pack Plus\'ı yükleyin </string>
+
+        
+    <string name="natificationRateTitle"> Lütfen bana oy verin! </string>
+        
+    <string name="natificationRateMessage"> Beni değerlendirmek için biraz zaman harcarsanız çok şey isterim </string>
+
+        
+    <string name="something_wrong"> Bir şeyler yanlış gitti lütfen tekrar deneyin (Kod:% 1 $ s) </string>
+
+        
+    <string name="rate_title"> Fikriniz bizim için önemli! </string>
+        
+    <string name="rate_button"> Bize oy verin </string>
+
+        
+    <string name="theme_id"> Test1 </string>
+        
+    <string name="keyboard_theme_name"> Test2 </string>
+
+
+        
+    <string name="dont_title"> Ayrılmayın! </string>
+        
+    <string name="dont_text"> Bu simge paketini ve duvar kağıdını kullanamayacaksınız! </string>
+        
+    <string name="dont_1"> Güzel <b> duvar kağıtları </b> </string>
+        
+    <string name="dont_2"> Muhteşem <b> simgeler </b> </string>
+        
+    <string name="dont_3"> <b> VIP\'ye yükselt </b> </string>
+        
+    <string name="dont_4"> Yeni <b> simgeler isteyin </b> </string>
+        
+    <string name="dont_5"> Yeni <b> temalar </b> her gün </string>
+        
+    <string name="dont_6"> <b> 40 + </b> özel simgeler </string>
+        
+    <string name="dont_download"> Icon Pack Plus\'ı indir </string>
+
+    <string name = "cancel"> İptal et </string>
+         <string name = "activate"> Etkinleştir </string>
+         <string name = "download"> İndir </string>
+         <string name = "activate_app_keyboard_description"> Bu temayı kullanmak için lütfen Keyboard Plus\'ı etkinleştirin </string>
+         <string name = "tv_load_themes"> Temanızı yükleniyor! </string>
+         <string name = "tv_wait"> Lütfen bekleyin ... </string>
+         <string name = "tv_app_name"> Klavye Artı </string>
+         <string name = "dontleave"> Ayrılmayın! </string>
+         <string name = "dontleave_desc"> Temanız etkin değil ve şunları yapmayacaksınız: </string>
+
+    <!-- Dizeleri Sms Plus -->
+        
+    <string name="awesome_themes"> Awesome <b> temalar </b> </string>
+        
+    <string name="animated_emoji_packs"> Animasyonlu <b> emoji </b> paketleri </string>
+        
+    <string name="beautiful_stickers"> Güzel <b> çıkartmaları </b> </string>
+        
+    <string name="private_box"> <b> Özel </b> kutusu </string>
+        
+    <string name="sms_blocker_blacklisting"> Sms <b> engelleyici </b> / siyah listeleme </string>
+        
+    <string name="gif_integration"> <b> GIF </b> entegrasyon </string>
+        
+    <string name="download_sms_plus"> Download SMS Plus </string>
+        
+    <string name="tv_app_name_sms"> SMS Plus </string>
+        
+    <string name="tv_app_name_paris"> Paris SMS </string>
+        
+    <string name="tv_app_description"> Güzel mesajlaşma </string>
+        
+    <string name="theme_name"> </string>
+
+    <!-- LWP -->
+        
+    <string name="object_category"> Nesne Ayarları </string>
+        
+    <string name="background_change_shake"> Hız ölçer </string>
+        
+    <string name="object_desc"> Yerleştirilecek Nesneyi Seçin </string>
+        
+    <string name="object_selection_category"> Nesne Seçimi </string>
+        
+    <string name="object_selection_type"> Nesneler </string>
+        
+    <string name="rotation_direction_desc"> Arkaplan Seç </string>
+        
+    <string name="set_direction"> Düşen Yönü Ayarla </string>
+        
+    <string name="settings"> Ayarları Değiştir </string>
+
+    <!-- Lwp Dizeleri -->
+        
+    <string name="falling_items"> Düşen Öğeler </string>
+        
+    <string name="select_item_type"> Öğe türünü seç </string>
+        
+    <string name="falling_one_object"> Bir Nesne </string>
+        
+    <string name="falling_two_objects"> İki Nesne </string>
+        
+    <string name="direction"> Yön </string>
+        
+    <string name="direction_description"> Öğeleriniz için düşen yönü ayarla </string>
+        
+    <string name="top_to_buttom"> Toptom’a Git </string>
+        
+    <string name="buttom_to_top"> Buttom to Top </string>
+        
+    <string name="object_size"> Nesne Boyutu </string>
+        
+    <string name="medium"> Orta </string>
+        
+    <string name="small"> Küçük </string>
+        
+    <string name="large"> Büyük </string>
+        
+    <string name="speed"> Hız </string>
+        
+    <string name="speed_desctiption"> Öğelerin taşınmasını istediğiniz hızı seçin </string>
+        
+    <string name="on"> On </string>
+        
+    <string name="off"> Kapalı </string>
+</resources>

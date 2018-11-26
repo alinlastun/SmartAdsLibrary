@@ -1,0 +1,213 @@
+<resources>
+	<string name="advertisement_loading">Carregamento de publicidade</string>
+    <string name="policy_title"> Política de Privacidade </string>
+        
+    <string name="policy_text"> Para nos ajudar a trazer um conteúdo mais personalizado, este aplicativo pode coletar e armazenar o código de publicidade do seu dispositivo </string>
+        
+    <string name="ourbest"> Nosso melhor aplicativo </string>
+        
+    <string name="share"> Compartilhar </string>
+        
+    <string name="rate"> Taxa </string>
+        
+    <string name="share_text"> Confira este incrível tema sms que encontrei </string>
+        
+    <string name="loading"> Preparando o seu tema ... </string>
+        
+    <string name="text_more_themes"> Mais temas </string>
+        
+    <string name="theme_loaded"> Tema carregado </string>
+        
+    <string name="text_top1"> Papel de parede ao vivo! </string>
+        
+    <string name="text_bottom1"> Experimente este incrível papel de parede ao vivo! </string>
+        
+    <string name="text_top2"> Mais temas livres </string>
+        
+    <string name="text_bottom2"> Veja qual você gosta ^ _ ^ </string>
+
+        <!-- Strings Loading -->
+        
+    <string name="ad_will_load"> Um anúncio será carregado </string>
+        
+    <string name="applying_theme"> Aplicando seu tema ... </string>
+
+    <string name="loading_wallpaper">Carregando papéis de parede ...</string>   
+     
+    <string name="loading_live_wallpaper"> Carregando papel de parede ao vivo ... </string>
+
+    <string name="notification_title"> Por favor avalie o Icon Pack! </string>
+        
+    <string name="notification_subtitle"> Valorizamos seus comentários, portanto, deixe-nos saber o que você pensa sobre o Icon Pack </string>
+
+    <string name = "cancel"> Cancelar </string>
+         <string name = "activate"> Ativar </string>
+         <string name = "download"> Download </string>
+         <string name = "activate_app_keyboard_description"> Por favor ative o Keyboard Plus para usar este tema </string>
+         <string name = "tv_load_themes"> Carregando seu tema! </string>
+         <string name = "tv_wait"> Por favor, aguarde ... </string>
+         <string name = "tv_app_name"> Teclado + </string>
+         <string name = "dontleave"> Não saia! </string>
+         <string name = "dontleave_desc"> Seu tema não está ativado e você não será: </string>
+        
+    <string name="noInternetToast"> Sem Internet </string>
+        
+    <string name="noInternetTitle"> Ooops! </string>
+        
+    <string name="noIntenertMessage"> Nenhuma conexão com a Internet encontrada! </string>
+        
+    <string name="noInternetReload"> Recarregar </string>
+
+        
+    <string name="apply_theme"> Aplicar tema </string>
+        
+    <string name="best_theme"> Nosso melhor aplicativo </string>
+        
+    <string name="rate_app"> Avaliar aplicativo </string>
+        
+    <string name="get_more"> Obtenha mais temas </string>
+        
+    <string name="wallpapers"> Papéis de Parede </string>
+
+        
+    <string name="wait"> Icon Pack Plus </string>
+        
+    <string name="wait2"> Carregando seu tema </string>
+
+        
+    <string name="wallpaper_question"> Tem certeza de que deseja definir este papel de parede? </string>
+        
+    <string name="wallpaper_no"> não </string>
+        
+    <string name="wallpaper_yes"> SIM </string>
+        
+    <string name="wallpaper_set"> O papel de parede está definido </string>
+
+        
+    <string name="download_it_from_google_play"> Este tema requer que o teclado acima seja instalado. Faça o download da loja do Google Play. </string>
+        
+    <string name="download_it_from_google_play_sms"> Este tema requer que o SMS Plus seja instalado para funcionar. Faça o download do Google Play. </string>
+
+        
+    <string name="download_cancel"> <u> Não, obrigado! </u> </string>
+        
+    <string name="download_download"> Download do Icon Pack Plus </string>
+        
+    <string name="download_title"> Mais um passo ... </string>
+        
+    <string name="download_text"> Para usar este pacote de ícones e papel de parede, por favor, instale o Icon Pack Plus </string>
+
+        
+    <string name="natificationRateTitle"> Por favor avalie-me! </string>
+        
+    <string name="natificationRateMessage"> Eu apreciaria muito se você gastar um pouco de tempo para me avaliar </string>
+
+        
+    <string name="something_wrong"> Algo deu errado, tente novamente (Código:% 1 $ s) </string>
+
+        
+    <string name="rate_title"> Sua opinião é importante para nós! </string>
+        
+    <string name="rate_button"> Avalie-nos </string>
+
+        
+    <string name="theme_id"> Test1 </string>
+        
+    <string name="keyboard_theme_name"> Test2 </string>
+
+
+        
+    <string name="dont_title"> Não saia! </string>
+        
+    <string name="dont_text"> Você não poderá usar este pacote de ícones e papel de parede! </string>
+        
+    <string name="dont_1"> Papéis de parede <b> bonitos </b> </string>
+        
+    <string name="dont_2"> Lindos <b> ícones </b> </string>
+        
+    <string name="dont_3"> Atualize para <b> VIP </b> </string>
+        
+    <string name="dont_4"> Solicite novos <b> ícones </b> </string>
+        
+    <string name="dont_5"> Novos <b> temas </b> todos os dias </string>
+        
+    <string name="dont_6"> <b> 40 + </b> ícones personalizados </string>
+        
+    <string name="dont_download"> Baixar o Icon Pack Plus </string>
+
+    <!-- Strings Sms Plus -->
+        
+    <string name="awesome_themes"> <b> temas impressionantes </b> </string>
+        
+    <string name="animated_emoji_packs"> Pacotes <b> emoji </b> animados </string>
+        
+    <string name="beautiful_stickers"> Adesivos bonitos <b> </b> </string>
+        
+    <string name="private_box"> Caixa <b> Privada </b> </string>
+        
+    <string name="sms_blocker_blacklisting"> Bloqueador de Sms <b> </b> / blacklisting </string>
+        
+    <string name="gif_integration"> integração <b> GIF </b> </string>
+        
+    <string name="download_sms_plus"> Download do SMS Plus </string>
+        
+    <string name="tv_app_name_sms"> SMS Plus </string>
+        
+    <string name="tv_app_name_paris"> SMS Paris </string>
+        
+    <string name="tv_app_description"> Mensagens bonitas </string>
+        
+    <string name="theme_name"> </string>
+
+    <!-- lwp -->
+        
+    <string name="object_category"> Configurações do objeto </string>
+        
+    <string name="background_change_shake"> Acelerômetro </string>
+        
+    <string name="object_desc"> Selecionar objeto para colocar </string>
+        
+    <string name="object_selection_category"> Seleção de Objetos </string>
+        
+    <string name="object_selection_type"> Objetos </string>
+        
+    <string name="rotation_direction_desc"> Selecionar plano de fundo </string>
+        
+    <string name="set_direction"> Definir direção de queda </string>
+        
+    <string name="settings"> Alterar configurações </string>
+
+    <!-- Cordas Lwp -->
+        
+    <string name="falling_items"> Itens em queda </string>
+        
+    <string name="select_item_type"> Selecione o tipo de item </string>
+        
+    <string name="falling_one_object"> Um Objeto </string>
+        
+    <string name="falling_two_objects"> Dois Objetos </string>
+        
+    <string name="direction"> Direção </string>
+        
+    <string name="direction_description"> Definir direção de queda para seus itens </string>
+        
+    <string name="top_to_buttom"> Cima para o Buttom </string>
+        
+    <string name="buttom_to_top"> Buttom para o topo </string>
+        
+    <string name="object_size"> Tamanho do Objeto </string>
+        
+    <string name="medium"> Médio </string>
+        
+    <string name="small"> Pequeno </string>
+        
+    <string name="large"> Grande </string>
+        
+    <string name="speed"> Velocidade </string>
+        
+    <string name="speed_desctiption"> Escolha a rapidez com que você deseja mover os itens </string>
+        
+    <string name="on"> Ativado </string>
+        
+    <string name="off"> Desativado </string>
+</resources>

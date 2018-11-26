@@ -1,0 +1,214 @@
+<resources>
+    <string name="advertisement_loading">تحميل الاعلان</string>
+    <string name="policy_title"> سياسة الخصوصية </string>
+        
+    <string name="policy_text"> لمساعدتنا على توفير المزيد من المحتوى المخصص لك ، قد يجمع هذا التطبيق ويخزن معرّف إعلانات جهازك </string>
+        
+    <string name="ourbest"> أفضل تطبيق لدينا </string>
+        
+    <string name="share"> مشاركة </string>
+        
+    <string name="rate"> معدل</string>
+        
+    <string name="share_text"> تحقق من هذا الموضوع المذهل للرسائل القصيرة التي وجدتها </string>
+        
+    <string name="loading"> الحصول على السمة جاهزة ... </string>
+        
+    <string name="text_more_themes"> المزيد من السمات </string>
+        
+    <string name="theme_loaded"> يتم تحميل السمة </string>
+        
+    <string name="text_top1"> Live Wallpaper! </string>
+        
+    <string name="text_bottom1"> جرب هذه خلفية حية مذهلة! </string>
+        
+    <string name="text_top2"> مزيد من المظاهر المجانية </string>
+        
+    <string name="text_bottom2"> معرفة أي واحدة تريدها ^ _ ^ </string>
+
+
+    <string name = "cancel"> إلغاء </string>
+         <string name = "activate"> تنشيط </string>
+         <string name = "download"> تنزيل </string>
+         <string name = "activate_app_keyboard_description"> الرجاء تنشيط Keyboard Plus لاستخدام هذا المظهر </string>
+         <string name = "tv_load_themes"> تحميل المظهر الخاص بك! </string>
+         <string name = "tv_wait"> الرجاء الانتظار ... </string>
+         <string name = "tv_app_name"> Keyboard Plus </string>
+         <string name = "dontleave"> لا تترك! </string>
+          <string name = "dontleave_desc"> لم يتم تنشيط المظهر الخاص بك ولن تحصل على: </string>
+
+        
+    <string name="ad_will_load"> سيتم تحميل الإعلان </string>
+        
+    <string name="applying_theme"> تطبيق السمة الخاصة بك ... </string>
+
+    <string name="loading_wallpaper">جارٍ تحميل الخلفيات ...</string>
+        
+    <string name="loading_live_wallpaper"> تحميل خلفية حية ... </string>
+
+    <string name="notification_title"> يرجى تقييم رمز الحزمة! </string>
+        
+    <string name="notification_subtitle"> نحن نقدر ملاحظاتك لذا أخبرنا برأيك في حزمة الأيقونات </string>
+
+        
+    <string name="noInternetToast"> No Internet </string>
+        
+    <string name="noInternetTitle"> Ooops! </string>
+        
+    <string name="noIntenertMessage"> لم يتم العثور على اتصال إنترنت! </string>
+        
+    <string name="noInternetReload"> إعادة تحميل </string>
+
+        
+    <string name="apply_theme"> تطبيق السمة </string>
+        
+    <string name="best_theme"> أفضل تطبيق لدينا </string>
+        
+    <string name="rate_app"> تقييم التطبيق </string>
+        
+    <string name="get_more"> الحصول على المزيد من الموضوعات </string>
+        
+    <string name="wallpapers"> خلفيات </string>
+
+        
+    <string name="wait"> أيقونة حزمة Plus </string>
+        
+    <string name="wait2"> جارٍ تحميل المظهر </string>
+
+        
+    <string name="wallpaper_question"> هل أنت متأكد من أنك تريد تعيين خلفية هذا؟ </string>
+        
+    <string name="wallpaper_no"> لا </string>
+        
+    <string name="wallpaper_yes"> نعم </string>
+        
+    <string name="wallpaper_set"> تعيين الخلفية </string>
+
+        
+    <string name="download_it_from_google_play"> يتطلب هذا المظهر تثبيت لوحة المفاتيح أعلاه. يرجى تنزيله من متجر Google Play. </string>
+        
+    <string name="download_it_from_google_play_sms"> يتطلب هذا الموضوع تثبيت SMS Plus حتى يعمل. يرجى تنزيله من Google Play. </string>
+
+        
+    <string name="download_cancel"> <u> لا شكرًا! </u> </string>
+        
+    <string name="download_download"> تنزيل Icon Pack Plus </string>
+        
+    <string name="download_title"> خطوة واحدة أخرى ... </string>
+        
+    <string name="download_text"> لاستخدام حزمة الأيقونة وخلفية هذا ، يرجى تثبيت أيقونة حزمة زائد </string>
+
+        
+    <string name="natificationRateTitle"> يرجى تقييم لي! </string>
+        
+    <string name="natificationRateMessage"> سأكون ممتنا إذا قضيت بعض الوقت في تقييمي </string>
+
+        
+    <string name="something_wrong"> حدث خطأ ما ، يرجى المحاولة مرة أخرى (الرمز:٪ 1 $ s) </string>
+
+        
+    <string name="rate_title"> رأيك يهمنا! </string>
+        
+    <string name="rate_button"> قيمنا </string>
+
+        
+    <string name="theme_id"> Test1 </string>
+        
+    <string name="keyboard_theme_name"> Test2 </string>
+
+
+        
+    <string name="dont_title"> لا تترك! </string>
+        
+    <string name="dont_text"> لن تتمكن من استخدام حزمة الرموز وخلفية الشاشة هذه! </string>
+        
+    <string name="dont_1"> خلفيات <b> جميلة </b> </string>
+        
+    <string name="dont_2"> الرموز <b> الرائعة </b> </string>
+        
+    <string name="dont_3"> الترقية إلى <b> VIP </b> </string>
+        
+    <string name="dont_4"> اطلب رموز <b> جديدة </b> </string>
+        
+    <string name="dont_5"> سمات <b> جديدة </b> كل يوم </string>
+        
+    <string name="dont_6"> <b> 40 + </b> الرموز المخصصة </string>
+        
+    <string name="dont_download"> تنزيل Icon Pack Plus </string>
+
+
+        
+    <string name="awesome_themes"> المظاهر <b> الرائعة </b> </string>
+        
+    <string name="animated_emoji_packs"> حزم <b> emoji </b> المتحركة </string>
+        
+    <string name="beautiful_stickers"> ملصقات <b> جميلة </b> </string>
+        
+    <string name="private_box"> مربع <b> خاص </b> </string>
+        
+    <string name="sms_blocker_blacklisting"> مانع الحظر <b> </b> / blacklist </string>
+        
+    <string name="gif_integration"> <b> GIF </b> التكامل </string>
+        
+    <string name="download_sms_plus"> تنزيل SMS Plus </string>
+        
+    <string name="tv_app_name_sms"> SMS Plus </string>
+        
+    <string name="tv_app_name_paris"> Paris SMS </string>
+        
+    <string name="tv_app_description"> المراسلة الجميلة </string>
+        
+    <string name="theme_name"> </string>
+
+
+        
+    <string name="object_category"> إعدادات الكائن </string>
+        
+    <string name="background_change_shake"> مقياس التسارع </string>
+        
+    <string name="object_desc"> حدد كائن لوضعه </string>
+        
+    <string name="object_selection_category"> اختيار الكائن </string>
+        
+    <string name="object_selection_type"> كائنات </string>
+        
+    <string name="rotation_direction_desc"> حدد الخلفية </string>
+        
+    <string name="set_direction"> Set Falling Direction </string>
+        
+    <string name="settings"> تغيير الإعدادات </string>
+
+
+        
+    <string name="falling_items"> هبوط العناصر </string>
+        
+    <string name="select_item_type"> حدد نوع العنصر </string>
+        
+    <string name="falling_one_object"> كائن واحد </string>
+        
+    <string name="falling_two_objects"> نوعان من الكائنات </string>
+        
+    <string name="direction"> الاتجاه </string>
+        
+    <string name="direction_description"> تعيين اتجاه السقوط لعناصرك </string>
+        
+    <string name="top_to_buttom"> Top to Buttom </string>
+        
+    <string name="buttom_to_top"> Buttom to Top </string>
+        
+    <string name="object_size"> حجم الكائن </string>
+        
+    <string name="medium"> Medium </string>
+        
+    <string name="small"> صغير </string>
+        
+    <string name="large"> كبير </string>
+        
+    <string name="speed"> السرعة </string>
+        
+    <string name="speed_desctiption"> اختر السرعة التي تريد أن تتحرك بها العناصر </string>
+        
+    <string name="on"> تشغيل </string>
+        
+    <string name="off"> إيقاف </string>
+</resources>

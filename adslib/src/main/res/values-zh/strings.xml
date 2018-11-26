@@ -1,0 +1,214 @@
+<resources>
+	<string name="advertisement_loading">广告加载</string>
+	
+    <string name="policy_title">隐私政策</string>
+        
+    <string name="policy_text">为了帮助我们为您带来更多个性化内容，此应用可能会收集并存储您设备的广告ID </string>
+        
+    <string name="ourbest">我们最好的应用</string>
+        
+    <string name="share">分享</string>
+        
+    <string name="rate"> Rate </string>
+        
+    <string name="share_text">查看我找到的这个惊人的短信主题</string>
+        
+    <string name="loading">准备好主题...... </string>
+        
+    <string name="text_more_themes">更多主题</string>
+        
+    <string name="theme_loaded">加载主题</string>
+        
+    <string name="text_top1">动态壁纸！</string>
+        
+    <string name="text_bottom1">试试这个神奇的动态壁纸！</string>
+        
+    <string name="text_top2">更多免费主题</string>
+        
+    <string name="text_bottom2">查看您喜欢哪一个^ _ ^ </string>
+
+        <!-- Strings Loading -->
+        
+    <string name="ad_will_load">广告将加载</string>
+        
+    <string name="applying_theme">应用你的主题...... </string>
+
+    <string name="loading_wallpaper">正在加载壁纸...</string>
+        
+    <string name="loading_live_wallpaper">加载动态壁纸...... </string>
+
+    <string name="notification_title">请评价Icon Pack！</string>
+        
+    <string name="notification_subtitle">我们非常重视您的反馈，请告诉我们您对Icon Pack的看法</string>
+
+        
+    <string name="noInternetToast">无互联网</string>
+        
+    <string name="noInternetTitle"> Ooops！</string>
+        
+    <string name="noIntenertMessage">未找到Internet连接！</string>
+        
+    <string name="noInternetReload">重新加载</string>
+
+        
+    <string name="apply_theme">应用主题</string>
+        
+    <string name="best_theme">我们的最佳应用</string>
+        
+    <string name="rate_app">评价应用</string>
+        
+    <string name="get_more">获取更多主题</string>
+        
+    <string name="wallpapers">壁纸</string>
+
+        
+    <string name="wait"> Icon Pack Plus </string>
+        
+    <string name="wait2">加载你的主题</string>
+
+        
+    <string name="wallpaper_question">您确定要设置此壁纸吗？</string>
+        
+    <string name="wallpaper_no">否</string>
+        
+    <string name="wallpaper_yes">是</string>
+        
+    <string name="wallpaper_set">设置了墙纸</string>
+
+        
+    <string name="download_it_from_google_play">此主题需要安装上述键盘。请从Google Play商店下载。</string>
+        
+    <string name="download_it_from_google_play_sms">此主题需要安装SMS Plus才能运行。请从Google Play下载。</string>
+
+        
+    <string name="download_cancel"><u>不，谢谢！</u></string>
+        
+    <string name="download_download">下载Icon Pack </string>
+        
+    <string name="download_title">还有一步...... </string>
+        
+    <string name="download_text">要使用此图标包和壁纸，请安装Icon Pack Plus </string>
+
+        
+    <string name="natificationRateTitle">请评价我！</string>
+        
+    <string name="natificationRateMessage">如果你花一点时间给我评价，我会非常感激</string>
+
+        
+    <string name="something_wrong">出了点问题请再试一次（代码：％1 $ s）</string>
+
+    <string name ="cancel">取消</string>
+         <string name ="activate">激活</string>
+         <string name ="download">下载</string>
+         <string name ="activate_app_keyboard_description">请激活Keyboard Plus以使用此主题</string>
+         <string name ="tv_load_themes">加载主题！</string>
+         <string name ="tv_wait">请稍候...... </string>
+         <string name ="tv_app_name"> Keyboard Plus </string>
+         <string name ="dontleave">不要离开！</string>
+         <string name ="dontleave_desc">您的主题未激活，您将无法获得：</string>
+        
+    <string name="rate_title">您的意见对我们很重要！</string>
+        
+    <string name="rate_button">给我们评分</string>
+
+        
+    <string name="theme_id"> Test1 </string>
+        
+    <string name="keyboard_theme_name"> Test2 </string>
+
+
+        
+    <string name="dont_title">不要离开！</string>
+        
+    <string name="dont_text">您将无法使用此图标包和壁纸！ </string>
+        
+    <string name="dont_1">美丽的<b>壁纸</b> </string>
+        
+    <string name="dont_2">华丽的<b>图标</b> </string>
+        
+    <string name="dont_3">升级到<b> VIP </b> </string>
+        
+    <string name="dont_4">请求新的<b>图标</b> </string>
+       
+    <string name="dont_5">新<b>主题</b> </string>
+        
+    <string name="dont_6"> <b> 40 + </b>自定义图标</string>
+        
+    <string name="dont_download">下载Icon Plus </string>
+
+    <!-- Strings Sms Plus -->
+        
+    <string name="awesome_themes">令人敬畏的<b>主题</b> </string>
+        
+    <string name="animated_emoji_packs">动画<b>表情符号</b>包</string>
+        
+    <string name="beautiful_stickers">美丽的<b>贴纸</b> </string>
+        
+    <string name="private_box"> <b>私人</b>框</string>
+        
+    <string name="sms_blocker_blacklisting"> Sms <b>拦截器</b> /黑名单</string>
+        
+    <string name="gif_integration"> <b> GIF </b>集成</string>
+        
+    <string name="download_sms_plus">下载SMS Plus </string>
+        
+    <string name="tv_app_name_sms"> SMS Plus </string>
+        
+    <string name="tv_app_name_paris">巴黎短信</string>
+        
+    <string name="tv_app_description">美丽的消息</string>
+        
+    <string name="theme_name"> </string>
+
+    <!-- LWP -->
+        
+    <string name="object_category">对象设置</string>
+        
+    <string name="background_change_shake">加速度计</string>
+        
+    <string name="object_desc">选择要放置的对象</string>
+        
+    <string name="object_selection_category">对象选择</string>
+        
+    <string name="object_selection_type">对象</string>
+        
+    <string name="rotation_direction_desc">选择背景</string>
+        
+    <string name="set_direction">设置下降方向</string>
+        
+    <string name="settings">更改设置</string>
+
+    <!-- Lwp Strings -->
+        
+    <string name="falling_items">坠落物品</string>
+        
+    <string name="select_item_type">选择项目类型</string>
+        
+    <string name="falling_one_object">一个对象</string>
+        
+    <string name="falling_two_objects">两个对象</string>
+        
+    <string name="direction">方向</string>
+        
+    <string name="direction_description">为您的项目设置下降方向</string>
+        
+    <string name="top_to_buttom"> Top to Buttom </string>
+        
+    <string name="buttom_to_top"> Buttom to Top </string>
+        
+    <string name="object_size">对象大小</string>
+        
+    <string name="medium"> Medium </string>
+        
+    <string name="small">小</string>
+        
+    <string name="large">大</string>
+        
+    <string name="speed">速度</string>
+        
+    <string name="speed_desctiption">选择项目移动的速度</string>
+        
+    <string name="on"> On </string>
+        
+    <string name="off">关闭</string>
+</resources>

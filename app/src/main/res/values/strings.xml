@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartAdsLib</string>
+    <string name="testsa" translatable="false">test</string>
+    <string name="show">show</string>
+</resources>
