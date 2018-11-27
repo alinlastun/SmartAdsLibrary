@@ -5,6 +5,7 @@ import android.app.AlertDialog
 import android.app.Dialog
 import android.graphics.drawable.ClipDrawable
 import android.os.Handler
+import android.util.Log
 import android.widget.ImageView
 import android.widget.ProgressBar
 import com.example.adslib.R
@@ -57,12 +58,12 @@ class ManagerInterstitial {
                         mImageDrawable.level = progressStatus * 100
                         if (progressStatus == 97) {
                             smartAdInterstitial.showLoadedAd()
+                            handler.postDelayed({
+                                progressTrue = false
+                                alertDialog.dismiss()
+                            },800)
                         }
-                        if (progressStatus == 99) {
-                            toLevel = 0
-                            progressTrue = false
-                            alertDialog.dismiss()
-                        }
+
                     }
                     try {
                         Thread.sleep(sleepMillisec)
