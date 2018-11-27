@@ -17,8 +17,6 @@
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
         </activity>
 
-        <activity android:name=".smartad.utill.LoadingProgressBarActivity"
-                  android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen"/>
     </application>
 
 </manifest>

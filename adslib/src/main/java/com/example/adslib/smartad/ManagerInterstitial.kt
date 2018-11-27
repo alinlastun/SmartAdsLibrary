@@ -55,7 +55,7 @@ class ManagerInterstitial {
                         progressBar?.progressDrawable = StartProgressBar.draw
                         progressBar?.progress = progressStatus
                         mImageDrawable.level = progressStatus * 100
-                        if (progressStatus == 95) {
+                        if (progressStatus == 97) {
                             smartAdInterstitial.showLoadedAd()
                         }
                         if (progressStatus == 99) {
