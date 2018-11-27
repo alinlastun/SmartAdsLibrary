@@ -11,11 +11,7 @@
                 android:name="com.google.android.gms.ads.AD_MANAGER_APP"
                 android:value="true"/>
 
-        <activity
-                android:name=".smartad.ManagerInterstitial"
-                android:label="@string/title_activity_manager_interstitial"
-                android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
-        </activity>
+
 
     </application>
 

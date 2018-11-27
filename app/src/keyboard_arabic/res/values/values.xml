@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activate_keyboard_new">Activate Arabic Keyboard</string>
+    <string name="switch_keyboard_new">Switch to Arabic Keyboard</string>
+
+    <string name="appnext_interstitial">2e3bf58a-2c45-412e-a61d-22a8dd6a24ad</string>
+    <string name="facebook_interstitial">335407623685857_335407680352518</string>
+    <string name="admob_interstitial">ca-app-pub-5322508131338449/8528263229</string>
+</resources>

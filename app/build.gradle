@@ -5,6 +5,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
+    flavorDimensions "default"
     compileSdkVersion 26
     defaultConfig {
         applicationId "com.example.junky2.smartadslib"
@@ -20,7 +21,65 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-}
+    signingConfigs {
+        key_keyboard {
+            Properties props = new Properties()
+            props.load(new FileInputStream(file("../keystore/key_keyboard.properties")))
+            storeFile file(props['key.store'])
+            storePassword props['key.store.password']
+            keyAlias props['key.alias']
+            keyPassword props['key.alias.password']
+        }
+
+        key_creative {
+            Properties props = new Properties()
+            props.load(new FileInputStream(file("../keystore/key_creative.properties")))
+            storeFile file(props['key.store'])
+            storePassword props['key.store.password']
+            keyAlias props['key.alias']
+            keyPassword props['key.alias.password']
+        }
+
+        key_bkt {
+            Properties props = new Properties()
+            props.load(new FileInputStream(file("../keystore/key_bkt.properties")))
+            storeFile file(props['key.store'])
+            storePassword props['key.store.password']
+            keyAlias props['key.alias']
+            keyPassword props['key.alias.password']
+        }
+
+        key_tm {
+            Properties props = new Properties()
+            props.load(new FileInputStream(file("../keystore/key_tm.properties")))
+            storeFile file(props['key.store'])
+            storePassword props['key.store.password']
+            keyAlias props['key.alias']
+            keyPassword props['key.alias.password']
+        }
+
+        key_themekey {
+            Properties props = new Properties()
+            props.load(new FileInputStream(file("../keystore/key_themekey.properties")))
+            storeFile file(props['key.store'])
+            storePassword props['key.store.password']
+            keyAlias props['key.alias']
+            keyPassword props['key.alias.password']
+        }
+    }
+    productFlavors {
+
+
+
+        keyboard_arabic {
+            dimension "default"
+            applicationId "com.keyboard.plus.arabic"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.key_tm
+        }
+    }
+    }
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')

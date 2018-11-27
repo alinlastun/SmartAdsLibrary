@@ -1,0 +1,76 @@
+{
+  "theme_name" : "Simple Blue",
+  "theme_preview" : "preview",
+  "theme_type" : "theme_default",
+  "keyboard_background" : "keyboard_background",
+  "theme_font_family" : "fonts/MavenPro-Regular.ttf",
+
+  "icons" : {
+    "ic_mic": "tab_ic_mic_quick_tabs",
+    "ic_menu": "tab_ic_menu"
+  },
+
+  "key_background" : {
+    "key_numeric" : {
+      "default_state" : "key_numeric_normal",
+      "pressed_state" : "key_numeric_pressed"
+    },
+    "key_qwerty" : {
+      "default_state" : "key_q_normal",
+      "pressed_state" : "key_q_pressed"
+    },
+    "key_space" : {
+      "default_state" : "key_space_normal",
+      "pressed_state" : "key_space_pressed"
+    },
+    "key_functional" : {
+      "default_state" : "key_function_normal",
+      "pressed_state" : "key_function_pressed"
+    },
+    "key_symbols" : {
+      "default_state" : "key_symbol_normal",
+      "pressed_state" : "key_symbol_pressed"
+    },
+    "key_alt" : {
+      "default_state" : "key_alt_normal",
+      "pressed_state" : "key_alt_pressed"
+    }
+  },
+  "key_preview" : {
+    "background" : "keyboard_key_preview_background",
+    "label_color" : "#ffffff"
+  },
+  "key_label_color" : {
+    "normal" : {
+      "default_state" : "#ffffff",
+      "pressed_state" : "#ffffff"
+    },
+    "nopreview" : {
+      "default_state" : "#ffffff",
+      "pressed_state" : "#ffffff"
+    }
+  },
+  "swipe_trail_color" : "#ffffff",
+  "symbol_space" : "dt_1_kbd_sym_space",
+  "symbol_delete" : "ic_key_backspace",
+  "symbol_action" : {
+    "done" : "sym_keyboard_done",
+    "go" : "sym_keyboard_done",
+    "enter" : "sym_keyboard_enter",
+    "next" : "sym_keyboard_done",
+    "search" : "sym_keyboard_search",
+    "send" : "sym_keyboard_done"
+  },
+  "symbol_shift" : {
+    "default_state" : "ic_shift",
+    "pressed_state" : "ic_shift_locked",
+    "locked_state" :"ic_shift_locked"
+  },
+  "key_alternatives" : {
+    "background" : "keyboard_key_preview_background",
+    "label_color" : "#c90620"
+  },
+  "more_keys" : {
+    "background" : "keyboard_key_preview_background"
+  }
+}
