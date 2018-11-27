@@ -16,7 +16,7 @@ public class SmartAdInterstitial implements com.facebook.ads.InterstitialAdListe
     private String                                    mGoogleID;
     private String                                    mFacebookID;
 
-    
+
     @SmartAd.SmartAdOrder
     private int                                       mAdOrder = SmartAd.AD_TYPE_RANDOM;
 
@@ -39,11 +39,13 @@ public class SmartAdInterstitial implements com.facebook.ads.InterstitialAdListe
         this.mFacebookID = facebookID;
         this.mIsAutoStart = isAutoStart;
 
+        Log.d("SmartInterstitial","mIsAutoStart: " + mIsAutoStart);
         loadAd();
     }
 
     private void loadAd() {
         if (SmartAd.IsShowAd(this)) {
+            Log.d("SmartInterstitial","loadAd: " + mAdOrder);
             switch (mAdOrder) {
                 case SmartAd.AD_TYPE_GOOGLE  : loadGoogle();   break;
                 case SmartAd.AD_TYPE_FACEBOOK: loadFacebook(); break;
@@ -56,6 +58,9 @@ public class SmartAdInterstitial implements com.facebook.ads.InterstitialAdListe
 
     public void showLoadedAd() {
         if (SmartAd.IsShowAd(this)) {
+            Log.d("SmartInterstitial","showLoadedAd" );
+            Log.d("SmartInterstitial","mGoogleAd: " + mGoogleAd);
+            Log.d("SmartInterstitial","mFacebookAd: " + mFacebookAd);
             if ((mGoogleAd != null) && (mGoogleAd.isLoaded())) {
                 mGoogleAd.show();
                 onDone(SmartAd.AD_TYPE_GOOGLE);
@@ -123,6 +128,7 @@ public class SmartAdInterstitial implements com.facebook.ads.InterstitialAdListe
 
     private void loadGoogle() {
         if (mGoogleID != null) {
+            Log.d("SmartInterstitial","loadGoogle");
             mGoogleAd = new com.google.android.gms.ads.InterstitialAd(mContext);
             mGoogleAd.setAdUnitId(mGoogleID);
             mGoogleAd.setAdListener(mGoogleListener);
@@ -163,6 +169,7 @@ public class SmartAdInterstitial implements com.facebook.ads.InterstitialAdListe
 
     private void loadFacebook() {
         if (mFacebookID != null) {
+            Log.d("SmartInterstitial","loadFacebook");
             mFacebookAd = new com.facebook.ads.InterstitialAd(mContext, mFacebookID);
             mFacebookAd.setAdListener(this);
             mFacebookAd.loadAd();
