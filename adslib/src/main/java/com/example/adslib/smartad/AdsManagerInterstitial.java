@@ -1,12 +1,17 @@
 package com.example.adslib.smartad;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
+import android.graphics.Rect;
 import android.graphics.drawable.ClipDrawable;
 import android.os.Handler;
+import android.support.v7.view.ContextThemeWrapper;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import com.example.adslib.R;
@@ -15,7 +20,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 
-public class ManagerAdInterstitial {
+public class AdsManagerInterstitial {
 
     private SmartAdInterstitial smartAdInterstitial;
     private ClipDrawable mImageDrawable;
@@ -34,7 +39,7 @@ public class ManagerAdInterstitial {
     }
 
     private void initDialog() {
-        AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(activity);
+        AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(activity,android.R.style.Theme_Black_NoTitleBar_Fullscreen);
         View dialogView = activity.getLayoutInflater().inflate(R.layout.activity_loading_progress_bar, null);
         dialogBuilder.setView(dialogView);
         alertDialog = dialogBuilder.create();
