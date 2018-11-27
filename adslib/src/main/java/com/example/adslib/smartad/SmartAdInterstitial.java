@@ -10,12 +10,13 @@ import com.example.adslib.smartad.SmartAd;
 
 public class SmartAdInterstitial implements com.facebook.ads.InterstitialAdListener {
 
-    private OnSmartAdInterstitialListener             mListener;
+    public OnSmartAdInterstitialListener             mListener;
     private Context                                   mContext;
     private boolean                                   mIsAutoStart;
     private String                                    mGoogleID;
     private String                                    mFacebookID;
 
+    
     @SmartAd.SmartAdOrder
     private int                                       mAdOrder = SmartAd.AD_TYPE_RANDOM;
 
